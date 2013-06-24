@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ UPC_A ]
+decode_out: [ [ "753759051945" ] ]
+corner_points:
+   - [ [ 221, 189 ], [ 436, 184 ], [ 224, 290 ], [ 438, 286 ] ]
