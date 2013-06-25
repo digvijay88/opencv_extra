@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code128 ]
+decode_out: [ [ "30885909173823" ] ]
+corner_points:
+   - [ [ 544, 269 ], [ 245, 234 ], [ 585, 127 ], [ 278, 51 ] ]

@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code128 ]
+decode_out: [ [ FW727 ] ]
+corner_points:
+   - [ [ 108, 162 ], [ 508, 161 ], [ 107, 267 ], [ 509, 269 ] ]

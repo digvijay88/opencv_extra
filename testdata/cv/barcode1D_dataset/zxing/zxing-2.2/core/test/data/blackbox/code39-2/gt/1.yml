@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ "Extended !?*#" ] ]
+corner_points:
+   - [ [ 2, 4 ], [ 419, 4 ], [ 2, 61 ], [ 418, 61 ] ]

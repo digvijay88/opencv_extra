@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ TEST-SHEET ] ]
+corner_points:
+   - [ [ 3, 6 ], [ 1463, 6 ], [ 6, 263 ], [ 1463, 263 ] ]

@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ MOROVIA ] ]
+corner_points:
+   - [ [ 30, 136 ], [ 248, 138 ], [ 28, 228 ], [ 250, 228 ] ]

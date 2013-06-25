@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ " WWW.CITRONSOFT.COM " ] ]
+corner_points:
+   - [ [ 63, 164 ], [ 417, 163 ], [ 62, 211 ], [ 417, 212 ] ]

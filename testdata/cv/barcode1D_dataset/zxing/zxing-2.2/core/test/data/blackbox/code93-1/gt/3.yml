@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code93 ]
+decode_out: [ [ DATA ] ]
+corner_points:
+   - [ [ 49, 139 ], [ 333, 139 ], [ 49, 241 ], [ 332, 241 ] ]

@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ rssexpanded ]
+decode_out: [ [ (01)90012345678908(3202)001750(15)100312 ] ]
+corner_points:
+   - [ [ 1, 1 ], [ 399, 1 ], [ 2, 101 ], [ 398, 100 ] ]

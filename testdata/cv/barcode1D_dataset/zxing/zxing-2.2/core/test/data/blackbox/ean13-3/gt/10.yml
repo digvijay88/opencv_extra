@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ ean13 ]
+decode_out: [ [ "9780596008574" ] ]
+corner_points:
+   - [ [ 35, 103 ], [ 203, 104 ], [ 31, 133 ], [ 202, 133 ] ]

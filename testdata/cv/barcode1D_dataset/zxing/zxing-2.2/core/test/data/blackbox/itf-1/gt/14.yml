@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ itf ]
+decode_out: [ [ "0829220875" ] ]
+corner_points:
+   - [ [ 21, 43 ], [ 209, 45 ], [ 17, 93 ], [ 212, 93 ] ]

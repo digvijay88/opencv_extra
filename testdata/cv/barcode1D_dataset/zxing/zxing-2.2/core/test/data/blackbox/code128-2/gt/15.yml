@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code128 ]
+decode_out: [ [ "1PEF224A4" ] ]
+corner_points:
+   - [ [ 181, 238 ], [ 564, 235 ], [ 190, 307 ], [ 561, 318 ] ]

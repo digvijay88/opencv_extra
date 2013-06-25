@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ "001EC94767E0" ] ]
+corner_points:
+   - [ [ 114, 143 ], [ 511, 176 ], [ 110, 247 ], [ 496, 263 ] ]

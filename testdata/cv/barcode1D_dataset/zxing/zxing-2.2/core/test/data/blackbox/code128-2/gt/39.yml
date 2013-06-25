@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code128 ]
+decode_out: [ [ FGGQ6D1 ] ]
+corner_points:
+   - [ [ 144, 117 ], [ 464, 78 ], [ 155, 199 ], [ 473, 158 ] ]

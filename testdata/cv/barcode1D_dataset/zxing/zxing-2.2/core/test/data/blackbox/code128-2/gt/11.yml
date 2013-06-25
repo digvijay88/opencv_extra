@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code128 ]
+decode_out: [ [ CNK8181G2C ] ]
+corner_points:
+   - [ [ 136, 131 ], [ 444, 141 ], [ 139, 195 ], [ 139, 195 ] ]

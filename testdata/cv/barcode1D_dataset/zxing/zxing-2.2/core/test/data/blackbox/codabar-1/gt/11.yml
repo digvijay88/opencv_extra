@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ codabar ]
+decode_out: [ [ "3419500" ] ]
+corner_points:
+   - [ [ 8, 6 ], [ 269, 5 ], [ 7, 103 ], [ 269, 103 ] ]

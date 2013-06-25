@@ -1,0 +1,7 @@
+%YAML:1.0
+barcode_present: 1
+barcode_format:
+   - [ code39 ]
+decode_out: [ [ "12ab" ] ]
+corner_points:
+   - [ [ 2, 1 ], [ 376, 1 ], [ 1, 133 ], [ 376, 132 ] ]
